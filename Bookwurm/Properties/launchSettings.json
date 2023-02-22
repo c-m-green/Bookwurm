@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Bookwurm (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Bookwurm (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
